@@ -39,9 +39,6 @@ This is a Pacman game project developed in Java. The project includes the game l
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
 
