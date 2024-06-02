@@ -1,8 +1,12 @@
-# Pacman Game
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge)
+
+# Pacman Game 🎮
+
 
 This is a Pacman game project developed in Java. The project includes the game logic, graphical assets, and resources needed to run the game.
 
-## Project Structure
+## Project Structure 📂
 
 - **resources**:
   - **sprites**: Contains all graphical files for the game, such as ghost characters, Pacman, and background images.
@@ -15,15 +19,15 @@ This is a Pacman game project developed in Java. The project includes the game l
     - **helpers**: Various helper classes.
     - **entities**: Classes describing different entities in the game.
 
-## Getting Started
+## Getting Started 🚀
 
-### Prerequisites
+### Prerequisites 🛠️
 
 1. Install JDK (version 8 or higher).
 2. Install an IDE (such as IntelliJ IDEA or Eclipse).
 3. Install Git (optional for version control).
 
-### Installation and Running
+### Installation and Running 💻
 
 1. Unzip the project file to a directory on your computer.
 2. Open the IDE and select "Open" or "Import Project".
@@ -31,7 +35,7 @@ This is a Pacman game project developed in Java. The project includes the game l
 4. After opening the project, locate the file `GameLauncher.java` in the `pacman` directory.
 5. Right-click on the `GameLauncher.java` file and select "Run" to start the game.
 
-## Contributing
+## Contributing 🤝
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature-name`).
@@ -39,7 +43,6 @@ This is a Pacman game project developed in Java. The project includes the game l
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a Pull Request.
 
-
-## Credits
+## Credits 📝
 
 All rights reserved to Bar Mor.
