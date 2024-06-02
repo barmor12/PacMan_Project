@@ -23,7 +23,7 @@ This is a Pacman game project developed in Java. The project includes the game l
 
 ### Prerequisites 🛠️
 
-1. Install JDK (version 8 or higher).
+1. Install JDK (version 20 or higher).
 2. Install an IDE (such as IntelliJ IDEA or Eclipse).
 3. Install Git (optional for version control).
 
